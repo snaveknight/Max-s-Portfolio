@@ -33,40 +33,40 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            Im in the early stages of my software development career, but im excited every day that I
+            get to make a living in this wonderful industry. I started out with a programming boot camp out of 
+            Detroit called Tech Elevator where we learned and built Java applications. Since then I have been working
+            at EJ(formally East Jordan Iron Works) where I've been doing full stack development by making changes and
+            improvements to the current business applications as well as making new ones. I love the challenge of each new project and the feeling you get 
+            when you finally crack through a problem.
           </p>
-          <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          <p >
+            A little more about my life, I'm a husband to a lovely wife and a father to a wonderful baby girl. I'm an aspiring pianist and I enjoy 
+            strength training and raising our chickens. I've tried my hand at gardening, and I think software development 
+            is a lot easier. 
           </p>
-          <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
-          </p>
+
         </div>
 
         <div className="stage-cube-cont">
           <div className="cubespinner">
             <div className="face1">
-              <FontAwesomeIcon icon={faAngular} color="#DD0031" />
+              <img src="../portfolio-img/addydaddy.PNG" width="400" height="300"/>
             </div>
             <div className="face2">
-              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+            <img src="../portfolio-img/addyfamily.PNG" width="400" height="300"/>
             </div>
             <div className="face3">
-              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+            <img src="../portfolio-img/IMG-0292.JPG" width="400" height="300"/>
             </div>
             <div className="face4">
-              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+            <img src="../portfolio-img/IMG-7875.jpeg" width="400" height="300"/>
             </div>
             <div className="face5">
-              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+            <img src="../portfolio-img/IMG-7948.jpeg" width="400" height="300"/>
             </div>
             <div className="face6">
-              <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+            <img src="../portfolio-img/IMG-9004.jpg" width="400" height="300"/>
             </div>
           </div>
         </div>
