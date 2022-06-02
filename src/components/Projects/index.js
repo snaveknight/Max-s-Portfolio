@@ -1,11 +1,7 @@
 import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
-import { useRef } from 'react'
-import { CodeIcon } from "@heroicons/react/solid";
-import AnimatedLetters from '../AnimatedLetters'
 import { visitors } from "./visitorapp"
 import { regions }  from "./salesregion"
-import { Link, animateScroll as scroll } from "react-scroll";
 import './index.scss'
 import { notes } from './notes';
 
@@ -16,7 +12,7 @@ const animateScroll = {
 
 const Projects = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
-  const form = useRef()
+  
 
   useEffect(() => {
     return setTimeout(() => {
