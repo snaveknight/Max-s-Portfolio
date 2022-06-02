@@ -47,29 +47,6 @@ const About = () => {
           </p>
 
         </div>
-
-        <div className="stage-cube-cont">
-          <div className="cubespinner">
-            <div className="face1">
-              <img src="../portfolio-img/addydaddy.PNG" width="400" height="300"/>
-            </div>
-            <div className="face2">
-            <img src="../portfolio-img/addyfamily.PNG" width="400" height="300"/>
-            </div>
-            <div className="face3">
-            <img src="../portfolio-img/IMG-0292.JPG" width="400" height="300"/>
-            </div>
-            <div className="face4">
-            <img src="../portfolio-img/IMG-7875.jpeg" width="400" height="300"/>
-            </div>
-            <div className="face5">
-            <img src="../portfolio-img/IMG-7948.jpeg" width="400" height="300"/>
-            </div>
-            <div className="face6">
-            <img src="../portfolio-img/IMG-9004.jpg" width="400" height="300"/>
-            </div>
-          </div>
-        </div>
       </div>
       <Loader type="pacman" />
     </>
