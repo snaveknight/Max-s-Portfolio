@@ -48,6 +48,12 @@ const About = () => {
 
         </div>
       </div>
+      <div  className="portrait fill fill img">
+      <img
+                  alt="gallery"
+                  src="../portfolio-img/IMG-0029.jpg"
+                />
+      </div>
       <Loader type="pacman" />
     </>
   )
