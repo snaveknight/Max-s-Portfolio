@@ -36,7 +36,7 @@ const Projects = () => {
           <br></br>
           <p>So this is an app I built that we use at some of our facilities to register and checkout
             visitors as they come and go. This app has the ability to add a photo of the guests with their information. I made
-            and additional administration page on a separate url and that we gave to the few individuals who will be checking guest in and out
+            an additional administration page on a separate url that we gave to the few individuals who will be checking guest in and out
             as well as editing any information about the guest. 
           </p>
           <br></br>
